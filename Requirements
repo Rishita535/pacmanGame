@@ -1,0 +1,7 @@
+Ability to display maze in the console after running the application.
+Ability to control the pacman with left, right, up and down arrow keys.
+Ability to display score of the player.
+Ability to display output in less than a second.
+Ability to change the design of maze.
+The program should not access any user data files or programs.
+The program should not alter or replace any system files.
