@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1605157927 source:c:\pacman\3_implementation\main.c
+	"pacman.h"
+	"test_pacman.h"
+
+1605163784 c:\pacman\3_implementation\inc\pacman.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<MMsystem.h>
+
+1605157379 c:\pacman\3_implementation\test\test_pacman.h
+
+1605157826 source:c:\pacman\3_implementation\test\test_pacman.c
+	"unity.h"
+	"pacman.h"
+
+1605157378 c:\pacman\3_implementation\unity\unity.h
+	"unity_internals.h"
+
+1605157378 c:\pacman\3_implementation\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1605157962 source:c:\pacman\3_implementation\src\pacman.c
+	"pacman.h"
+
+1605157379 source:c:\pacman\3_implementation\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
