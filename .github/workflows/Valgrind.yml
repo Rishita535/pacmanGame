@@ -2,13 +2,9 @@ name: Valgrind
 
 on: [push]
   
-
-
 jobs:
   build:
-    name: Valgrind
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: apt install dependency
@@ -18,4 +14,4 @@ jobs:
     - name: make test
       run: |
         make test -C 3_Implementation/
-        valgrind ./3_Implementation/build/pacman.out
+        valgrind ./3_Implementation/build/Test_pacman.out
