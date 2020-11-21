@@ -16,4 +16,4 @@ jobs:
     - name: make test
       run: |
         make test -C 3_Implementation/
-        valgrind ./3_Implementation/built/Test_pacman.out
+        valgrind ./3_Implementation/built/Test_pacman.out.out
