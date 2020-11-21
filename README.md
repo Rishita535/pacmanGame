@@ -13,3 +13,4 @@ The pacman is an easy and fun game to play which comes under the genre of maze g
 
 ![Unit testing](https://github.com/stepin105171/pacmanGame/workflows/Unit%20testing/badge.svg)
 ![cppcheck](https://github.com/stepin105171/pacmanGame/workflows/cppcheck/badge.svg)
+![C/C++ CI](https://github.com/stepin105171/pacmanGame/workflows/C/C++%20CI/badge.svg)
