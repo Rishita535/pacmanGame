@@ -15,3 +15,4 @@ The pacman is an easy and fun game to play which comes under the genre of maze g
 ![cppcheck](https://github.com/stepin105171/pacmanGame/workflows/cppcheck/badge.svg)
 ![C/C++ CI](https://github.com/stepin105171/pacmanGame/workflows/C/C++%20CI/badge.svg)
 ![Valgrind](https://github.com/stepin105171/pacmanGame/workflows/Valgrind/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/69f067d41edf49769f5c8da315c53e74)](https://www.codacy.com/gh/stepin105171/pacmanGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stepin105171/pacmanGame&amp;utm_campaign=Badge_Grade)
